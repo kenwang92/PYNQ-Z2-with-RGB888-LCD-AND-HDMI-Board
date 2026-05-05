@@ -1,0 +1,1 @@
+go to https://oshwhub.com/ophanim/project_kokpoqoq for more deatail

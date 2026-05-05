@@ -5,7 +5,7 @@ This adapter board is designed to connect a **4.3-inch RGB888 TFT LCD** (sourced
 ![alt text](5.jpg)
 
 **Bonus Feature:**  
-The design includes a **SiI9022A** chip. By plugging the adapter board into the header in reverse, the system can support an additional **HDMI output channel**.
+The design includes a **SII9022A** chip. By plugging the adapter board into the header in reverse, the system can support an additional **HDMI output channel**.
 
 ![alt text](4.jpg)
 
